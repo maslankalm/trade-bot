@@ -1,0 +1,4 @@
+discord
+pybit
+gate-api
+pyxt
